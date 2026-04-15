@@ -80,22 +80,14 @@ ol {
     line-height: 1.6;
 }
 
-table.business-areas {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 15px;
+table {
+    border-radius: 8px;
 }
 
-table.business-areas th,
-table.business-areas td {
-    border: 1px solid #fff;
-    padding: 10px;
+td {
+    padding: 12px 15px;
+    border: 1px solid #eee;
     text-align: left;
-}
-
-table.business-areas th {
-    background-color: #f2f2f2;
-    color: #5e22f3;
 }
 
 a {
@@ -116,7 +108,7 @@ a:hover {
     border-top: 5px solid #6832f0;
 }
 
-.section p, .section ul, .section table {
+.section p, .section ul{
     margin-bottom: 15px;
 }
 
