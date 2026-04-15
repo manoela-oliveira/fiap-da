@@ -1,0 +1,128 @@
+body {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.header {
+    background-color: #5e22f3; /* Darker blue for header */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 5px solid #6832f0;
+}
+
+.header h1 {
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+
+.logo {
+    background-color: white; /* Placeholder for logo */
+    border-radius: 30%; /* Make it circular */
+    margin: 0 auto 15px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white; /* White border for the logo */
+    padding: 1px; /* Padding inside the logo div */
+    max-width: 400px; /* Example: limit the logo container to 100px wide */
+    height: auto; /* Allow height to adjust automatically */
+}
+
+.logo img {
+    max-width: 100%; /* Ensure the image doesn't overflow its parent */
+    height: auto;    /* Maintain aspect ratio */
+    display: block;  /* Remove extra space below the image */
+    border-radius: 40%; /* Make the image itself circular if it's square */
+}
+
+
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.section h2 {
+    color: #5e22f3;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.section h3 {
+    color: #733dfd; /* Lighter blue for subheadings */
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    line-height: 1.6;
+}
+
+ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+    line-height: 1.6;
+}
+
+table.business-areas {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table.business-areas th,
+table.business-areas td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+table.business-areas th {
+    background-color: #f2f2f2;
+    color: #5e22f3;
+}
+
+a {
+    color: #5e22f3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #5e22f3;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    border-top: 5px solid #6832f0;
+}
+
+/* Box Model - demonstrating padding, margin, and border */
+.section p, .section ul, .section table {
+    margin-bottom: 15px; /* Margin below paragraphs, lists, and tables */
+}
+
+.section h2 {
+    margin-top: 0; /* No top margin for the first h2 in a section */
+    padding-top: 5px; /* Small padding at the top */
+    padding-bottom: 5px; /* Small padding at the bottom */
+}
