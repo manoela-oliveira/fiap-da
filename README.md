@@ -103,6 +103,7 @@ Todo o desenvolvimento da página deve ser apresentado via vídeo pitch e com ap
 **Demonstração da Entrega:**
 <p>
 <img width="1897" height="1022" alt="Image" src="https://github.com/user-attachments/assets/257ac5bd-11fd-4f55-97b2-3fe50fc85e1b" />
+  
 https://github.com/user-attachments/assets/28a16b0f-5d81-4e11-963c-93ffef540f55
 
 
@@ -122,4 +123,5 @@ A solução deverá contemplar:
 **Demonstração da Entrega:**
 <p>
 <img width="1897" height="1027" alt="Image" src="https://github.com/user-attachments/assets/254f228b-0ad0-436d-9173-63061e88a533" />
+  
 https://github.com/user-attachments/assets/2d4c0697-4c02-4e51-a963-18fb38fe832d
