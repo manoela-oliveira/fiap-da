@@ -61,7 +61,8 @@ Desenvolver uma página web institucional para uma startup fictícia de tecnolog
 - CSS Inline, Interno e Externo
 
 **Demonstração da Entrega:**
-
+<p>
+<img width="1596" height="825" alt="Image" src="https://github.com/user-attachments/assets/0baf6cfe-1a1f-4c74-ab51-0c1176dce078" />
 
 ---
 
@@ -88,7 +89,9 @@ Aplicar os conceitos vistos até agora de:
 - Box Model (padding, margin e border)
 
 **Demonstração da Entrega:**
-
+<p>
+<img width="1896" height="1027" alt="Image" src="https://github.com/user-attachments/assets/672a7383-566d-4d83-a429-21ce92a828f1" />
+  
 ---
 
 ### Sprint 1
@@ -98,7 +101,12 @@ Desenvolver uma aplicação web apresentando um sistema de cadastro genérico de
 Todo o desenvolvimento da página deve ser apresentado via vídeo pitch e com apenas o conteúdo visto até a aula 10.
 
 **Demonstração da Entrega:**
+<p>
+<img width="1897" height="1022" alt="Image" src="https://github.com/user-attachments/assets/257ac5bd-11fd-4f55-97b2-3fe50fc85e1b" />
+https://github.com/user-attachments/assets/28a16b0f-5d81-4e11-963c-93ffef540f55
 
+
+  
 ---
 
 ### Sprint 2
@@ -112,3 +120,6 @@ A solução deverá contemplar:
 - Apresentação das informações meteorológicas no dashboard de forma clara e organizada.
 
 **Demonstração da Entrega:**
+<p>
+<img width="1897" height="1027" alt="Image" src="https://github.com/user-attachments/assets/254f228b-0ad0-436d-9173-63061e88a533" />
+https://github.com/user-attachments/assets/2d4c0697-4c02-4e51-a963-18fb38fe832d
