@@ -1,6 +1,6 @@
 # FIAP - Desenvolvimento de Aplicações
 
-> **Professor:** Nome do professor
+> **Professor:** Allan Roberto Molto
 
 ---
 
